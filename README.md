@@ -1,2 +1,2 @@
 # aboutMe
-about me!
+Hello! my name is dhruv patel, and I am a junior at santa clara university. I am interested in Machine Learning - Neural Nets, CNN, RNN, etc - and other related topics. in my free tune i enjoy playing video games like valorant, league, and minecraft. I am currently taking classes like Operating Systems, Programming Languages, and more. I will be taking Compilers and Digital IC Design next quarter.
